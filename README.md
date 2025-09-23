@@ -1,1 +1,1 @@
-# odin-recipes
+This project is basically an exercise to test my knowledge on HTML and I will be learning a lot while making this project and if I forget something then I will go back to the fundamental lessons and revise the things properly and then continue further.
